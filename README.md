@@ -18,6 +18,13 @@ Olá! Me chamo **Victor Dhein**, tenho 33 anos e sou natural do Mato Grosso. Atu
             src="https://custom-icon-badges.demolab.com/github/followers/VictorDhein?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" 
         />
     </a>
+    <a href="https://github.com/VictorDhein">
+        <img 
+            alt="Java Quality" 
+            title="Java - Alta Qualidade" 
+            src="https://img.shields.io/badge/Java-Expert-brightgreen?style=for-the-badge&logo=java&logoColor=white" 
+        />
+    </a>
 </p>
 
 ---
@@ -105,17 +112,9 @@ Meu objetivo é continuar crescendo como desenvolvedor, contribuindo para projet
 - **Back-end:** Java, Spring Boot, APIs REST, Hibernate/JPA.  
 - **Banco de dados:** PostgreSQL, MySQL.  
 - **Ferramentas:** Git/GitHub, Docker, JUnit, Mockito.  
-- **Boas práticas:** POO, SOLID, Clean Code, Design Patterns.
-
+- **Boas práticas:** POO, SOLID, Clean Code, Design Patterns.  
 
 ---
-
-
-
-
-
-
-
 
 ## 📊 Estatísticas do GitHub  
 Aqui estão algumas estatísticas sobre minha atividade no GitHub:
