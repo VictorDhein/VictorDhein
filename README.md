@@ -6,4 +6,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorDhein&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Repos](https://github-readme-stats.vercel.app/api/pin/?username=VictorDhein&repo=SEU_REPOSITORIO&theme=dark)](https://github.com/VictorDhein/SEU_REPOSITORIO)
+[![Top Repos](https://github-readme-stats.vercel.app/api/pin/?username=VictorDhein&repo=ProjetoPessoal&theme=dark)](https://github.com/VictorDhein/ProjetoPessoal)
